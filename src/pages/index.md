@@ -1,8 +1,8 @@
 ---
-title: home
+title: Home
 banner:
   title: Gnome
-  subtitle: The strains you want, with the genetics you need
+  subtitle: The strains you want with the genetics you need
   actions:
   - label: Learn More
     url: "/no-sidebar"
